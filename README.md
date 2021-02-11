@@ -16,4 +16,4 @@ Keterangan : (beri penjelasan mendetail) <br />
 Screeshot / bukti Bug : (berupa gambar)
 
 ## Preview Apk
-![prev](https://user-images.githubusercontent.com/58913447/107673791-e7042680-6cc8-11eb-8dc1-a86e53712748.jpg)
+![p](https://user-images.githubusercontent.com/58913447/107674190-4a8e5400-6cc9-11eb-9e34-c898b80846d9.jpg)
