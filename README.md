@@ -14,3 +14,6 @@ Format Laporan : <br />
 Bug : (inti dari bug tersebut) <br />
 Keterangan : (beri penjelasan mendetail) <br />
 Screeshot / bukti Bug : (berupa gambar)
+
+## Preview Apk
+![preview](https://user-images.githubusercontent.com/58913447/107673390-8a087080-6cc8-11eb-8679-4ee5c3e4647c.jpg)
