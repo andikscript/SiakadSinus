@@ -7,3 +7,10 @@ Repository bersama untuk aplikasi android sebagai pengganti Siakad Web Sinus aga
 ### Ketentuan Open Pull Request dan Release & Upload File APK Terbaru :
 1. Tidak merubah konsep awal dari pembuatan aplikasi android
 2. Release dan Upload file di link Download, tidak menghapus file apk yang lama akan tetapi memberi nama 'SiakadSinus.versi' pada file aplikasi diiringi dengan nomor setelahnya dari versi sebelumnya.
+
+### Link Download APK :
+Jika terdapat bug bisa langsung kirim ke Email saya : andikscript@gmail.com
+Format Laporan : 
+Bug : (inti dari bug tersebut)
+Keterangan : (beri penjelasan mendetail)
+Screeshot / bukti Bug : (berupa gambar)
