@@ -11,6 +11,6 @@ Repository bersama untuk aplikasi android sebagai pengganti Siakad Web Sinus aga
 ### Link Download APK :
 Jika terdapat bug bisa langsung kirim ke Email saya : andikscript@gmail.com
 * Format Laporan : 
-Bug : (inti dari bug tersebut)
-Keterangan : (beri penjelasan mendetail)
-Screeshot / bukti Bug : (berupa gambar)
+- Bug : (inti dari bug tersebut)
+- Keterangan : (beri penjelasan mendetail)
+- Screeshot / bukti Bug : (berupa gambar)
