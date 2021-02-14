@@ -21,7 +21,14 @@ public class MainActivity extends AppCompatActivity implements AdvancedWebView.L
         mWebView = (AdvancedWebView) findViewById(R.id.webview);
         mWebView.setListener(this, this);
         mWebView.setMixedContentAllowed(false);
-        //mWebView.setGeolocationEnabled(true);
+        boolean preventCaching = true;
+        // enable cache
+        mWebView.loadUrl("http://akademik.sinus.ac.id/", preventCaching);
+        // enable cookies
+        mWebView.setThirdPartyCookiesEnabled(true);
+        mWebView.setCookiesEnabled(true);
+        // enable desktop mode
+        mWebView.setDesktopMode(true);
         mWebView.loadUrl("http://akademik.sinus.ac.id/");
     }
 
