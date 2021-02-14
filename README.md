@@ -16,8 +16,8 @@ Keterangan : (beri penjelasan mendetail) <br />
 Screeshot / bukti Bug : (berupa gambar)
 
 ## Preview Apk
-Splash Screen :
-![preview](https://user-images.githubusercontent.com/58913447/107871477-9a8d3680-6ed4-11eb-8d8c-1ba00e22496f.jpg)
-<br />
-Main :
+Splash Screen : <br />
+![preview](https://user-images.githubusercontent.com/58913447/107871477-9a8d3680-6ed4-11eb-8d8c-1ba00e22496f.jpg)<br />
+
+Main :<br />
 ![p](https://user-images.githubusercontent.com/58913447/107674190-4a8e5400-6cc9-11eb-9e34-c898b80846d9.jpg)
